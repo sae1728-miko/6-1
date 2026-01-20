@@ -90,8 +90,8 @@ WHERE
 -- 問8
 SELECT
     id,
-    pairing_id
-    player_id
+    pairing_id,
+    player_id,
     goal_time
 FROM 
     goals
